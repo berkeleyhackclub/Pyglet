@@ -1,2 +1,5 @@
 # Pyglet
-All Pyglet projects. 
+
+Resources for Pyglet. 
+
+
